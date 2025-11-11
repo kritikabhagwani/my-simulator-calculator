@@ -1,1 +1,1 @@
-Hello
+Dice distribution is a statistical study of the outcomes obtained by rolling one or more dice.it helps us to understand how likely each result is and what kind of pattern or distribution the result follow
